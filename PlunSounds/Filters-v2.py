@@ -1,3 +1,8 @@
+"""
+    Depreciated!
+    Do not use!
+"""
+
 import time
 from cmath import rect, pi
 """

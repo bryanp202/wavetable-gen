@@ -1,3 +1,8 @@
+"""
+    Depreciated!
+    Do not use!
+"""
+
 from numpy import array
 import time
 def expandFactors(factors):
